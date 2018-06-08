@@ -1,0 +1,31 @@
+Name,Average House Prices - Borough
+ShortName,House Prices
+,
+,
+,
+Theme,Housing
+Sub-theme,House Prices- Sales
+,
+Title,Average house prices
+Description,"Annual and quarterly, median and mean house prices, quarterly and annual upper and lower quartile prices, and indices and sales volumes"
+Subject,House prices
+Subject.keyword,"House prices, sales, property"
+Publisher,"DCLG, Land Registry"
+Date.available,1995-2016
+Creator,Land Registry
+Date.created,Aug 17
+Coverage.spatial,Local Authority
+Coverage.temporal,Annual
+Type,Administrative
+Language,English
+Rights,Crown Copyright
+More info,https://www.gov.uk/guidance/about-the-price-paid-data
+Download from,https://data.gov.uk/dataset/land-registry-monthly-price-paid-data
+,
+Measure,GBP
+Warnings/Notes,"Excluded from the above figures are sales at less than market price (e.g. Right To Buy), sales below £1,000 and sales above £20m."
+,"The ""median"" property price is determined by ranking all property prices in ascending order."
+,The median is the mid-point of this ranking with 50 per cent of prices below the median and 50 per cent above
+,"Simple average values are useful in describing data, but there are limitations. These limitations occur when there are extreme values (either low or high) in the data. These extreme values have a larger influence on the average than the other values in the data set. One way to reduce the influence of extremes is by calculating a geometric mean instead of an arithmetic mean (the arithmetic mean is commonly referred to as the average). To calculate a geometric mean, the data are transformed into log values and these values are averaged. The average is then converted back to a linear value, which is the geometric mean. This technique reduces the influence of individual values because in log form, low/high values are not as extreme relative to the rest of the data."
+,
+Next release,Aug 18
